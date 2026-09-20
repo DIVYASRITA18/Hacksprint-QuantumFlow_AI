@@ -26,7 +26,7 @@ streamlit run app.py
 Open **Live Traffic Simulation** and press **Start**. Press **Dispatch Ambulance** to demonstrate the emergency green corridor.
 
 
-IMPORTANT: The live vehicle simulation is in the Live Traffic Simulation tab. It is a canvas animation, not the static Traffic Network map. Cars, buses, trucks and the ambulance are drawn as moving vehicle bodies.
+
 =======
 # Hacksprint
 
