@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuantumFlow — Live Microscopic Traffic Simulation
 
 This version replaces the previous static road-line visualization with a browser-side microscopic simulation.
@@ -26,3 +27,6 @@ Open **Live Traffic Simulation** and press **Start**. Press **Dispatch Ambulance
 
 
 IMPORTANT: The live vehicle simulation is in the Live Traffic Simulation tab. It is a canvas animation, not the static Traffic Network map. Cars, buses, trucks and the ambulance are drawn as moving vehicle bodies.
+=======
+# Hacksprint
+>>>>>>> 7b8885ce726913cc4ab1a76f3fd97881e392bf56
